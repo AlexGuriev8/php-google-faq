@@ -66,8 +66,7 @@ ul li a {
 }
 
 section {
-    display: flex;
-    flex-grow: 1;
+    padding-bottom: 50px;
 }
 
 .container {
@@ -76,7 +75,7 @@ section {
 }
 
 section h2 {
-    color: #3c4043;
+    color: rgba(0,0,0,0.87);;
     font-family: 'Google Sans',sans-serif;
     font-weight: 500;
     font-size: 24px;
